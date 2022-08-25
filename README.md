@@ -1,25 +1,34 @@
-package main
+### Hi there 👋, my name is **PRITISH SHARMA** I am a FULL STACK Web Developer.
 
-import (
-	"fmt"
-)
 
-type Bio map[string]string
+Skills: **Python / Cpp / Node.js / Express / JS / HTML / CSS**
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+- 🌱 I’m currently learning **Web Development**
+- 🔭 I’m also interested in [competetive programming](https://www.codechef.com/users/cpppritish_1)
+- 👯 I’m looking to collaborate on _nodeJs projects_.
+- 💬 Ask me about **NOTHING**.
+- 📫 How to reach me: www.linkedin.com/in/pritish-sharma-26b805222
+- ⚡ Fun fact: **JAck of all trade master of none**
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
+## 🌐 Socials:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pritish1906) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/pritish-sharma-26b805222) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pritish_the_great_12/)
+
+# 💻 Tech Stack:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=pritish1906&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pritish1906&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritish1906&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# GitHub Metrics
+
+![GitHub metrics](https://metrics.lecoq.io/pritish1906)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=pritish1906&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
