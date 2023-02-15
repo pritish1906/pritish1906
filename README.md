@@ -1,14 +1,13 @@
-### Hi there 👋, my name is **PRITISH SHARMA** I am a FULL STACK Web Developer.
+### Hi there 👋, my name is **PRITISH SHARMA** I am a Programmer.
 
 
-Skills: **Python / Cpp / Node.js / Express / JS / HTML / CSS**
+Skills: **Cpp / JS / Node.js / Express / Python / Flask / HTML / CSS**
 
 - 🌱 I’m currently learning **Web Development**
 - 🔭 I’m also interested in [competetive programming](https://www.codechef.com/users/cpppritish_1)
-- 👯 I’m looking to collaborate on _nodeJs projects_.
+- 👯 I’m looking to collaborate on _Exciting projects_.
 - 💬 Ask me about **NOTHING**.
 - 📫 How to reach me: www.linkedin.com/in/pritish-sharma-26b805222
-- ⚡ Fun fact: **JAck of all trade master of none**
 
 ## 🌐 Socials:
 
