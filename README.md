@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌱 I’m currently learning Web Development<br>🔭 I’m also interested in competitive programming<br>👯 I’m looking to collaborate on Exciting projects.<br>💬 Ask me about NOTHING.<br>📫 How to reach me: www.linkedin.com/in/pritish-sharma-26b805222
+🌱 I’m currently learning Web Development<br>
+🔭 I’m also interested in Machine Learning<br>
+👯 I’m looking to collaborate on MERN stack projects.<br>
+💬 Ask me about my achievements (jk) .<br>
+📫 How to reach me: www.linkedin.com/in/pritish-sharma-26b805222
 
 
 ## 🌐 Socials:
@@ -18,8 +22,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pritish1906&icon=8&color=0)](https://visitcount.itsvg.in)
